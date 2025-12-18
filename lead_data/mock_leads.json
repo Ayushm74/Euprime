@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Dr. Jane Smith",
+    "title": "Director of Toxicology",
+    "company": "BioSynth Pharma",
+    "linkedin": "https://www.linkedin.com/in/janesmithtox/",
+    "source": "LinkedIn"
+  },
+  {
+    "name": "Dr. Alan Wu",
+    "title": "VP of Preclinical Safety",
+    "company": "MedInnovate Inc.",
+    "linkedin": "https://www.linkedin.com/in/alanwupreclinical/",
+    "source": "PubMed"
+  },
+  {
+    "name": "Dr. Maria Lopez",
+    "title": "Head of Investigative Toxicology",
+    "company": "GenPro Biologics",
+    "linkedin": "https://www.linkedin.com/in/marialopezhq/",
+    "source": "Conference"
+  },
+  {
+    "name": "Prof. Viktor Nesterenko",
+    "title": "Principal Investigator (NAMs)",
+    "company": "Cambridge 3D Organoids",
+    "linkedin": "https://www.linkedin.com/in/vnesterenko-3d/",
+    "source": "SOT"
+  },
+  {
+    "name": "Dr. Emily Chen",
+    "title": "Director of Preclinical Safety",
+    "company": "Astra Therapeutics",
+    "linkedin": "https://www.linkedin.com/in/emilychen-hepatic/",
+    "source": "LinkedIn"
+  },
+  {
+    "name": "Dr. Dan Patel",
+    "title": "Junior Scientist",
+    "company": "StartBioX",
+    "linkedin": "https://www.linkedin.com/in/dpatel-junior/",
+    "source": "PubMed"
+  },
+  {
+    "name": "Dr. Lisa Braun",
+    "title": "Safety Assessment Scientist",
+    "company": "CoreTox Labs",
+    "linkedin": "https://www.linkedin.com/in/lbraun-coretox/",
+    "source": "ISSX"
+  },
+  {
+    "name": "Dr. Michael Fisher",
+    "title": "Head of NAMs",
+    "company": "AltTox Solutions",
+    "linkedin": "https://www.linkedin.com/in/fisher-nams/",
+    "source": "AACR"
+  },
+  {
+    "name": "Dr. Priya Rao",
+    "title": "Director, Hepatic Models",
+    "company": "LiverOrganoTech",
+    "linkedin": "https://www.linkedin.com/in/priyarao-hepatic/",
+    "source": "ACT"
+  },
+  {
+    "name": "Dr. Hanna Mo",
+    "title": "Principal Toxicologist",
+    "company": "GlobalCRO Partners",
+    "linkedin": "https://www.linkedin.com/in/hannamo-gcro/",
+    "source": "Google Scholar"
+  },
+  {
+    "name": "Mr. Alex Turner",
+    "title": "Research Assistant",
+    "company": "AltBiome Labs",
+    "linkedin": "https://www.linkedin.com/in/alexturner-ra/",
+    "source": "Conference"
+  },
+  {
+    "name": "Dr. Olivia Zhang",
+    "title": "Research Scientist",
+    "company": "NewCell Therapeutics",
+    "linkedin": "https://www.linkedin.com/in/oliviazhang-research/",
+    "source": "PubMed"
+  },
+  {
+    "name": "Dr. Brian Lee",
+    "title": "Junior Scientist",
+    "company": "MiniLab Genomics",
+    "linkedin": "https://www.linkedin.com/in/brianlee-mlab/",
+    "source": "Conference"
+  },
+  {
+    "name": "Dr. Marta Russo",
+    "title": "Preclinical Safety Scientist",
+    "company": "InnoVito 3D",
+    "linkedin": "https://www.linkedin.com/in/martarusso-innv/",
+    "source": "SOT"
+  },
+  {
+    "name": "Dr. Stefan Hahn",
+    "title": "Director of NAMs",
+    "company": "SafeTox AG",
+    "linkedin": "https://www.linkedin.com/in/stefanhahn-nams/",
+    "source": "LinkedIn"
+  }
+]
